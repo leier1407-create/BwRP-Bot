@@ -3821,7 +3821,7 @@ class Logs(commands.Cog):
         if titel:
             titel = titel.replace("\\n", "\n").format_map(u_leer(v))
         else:
-            titel = T("willkommen.titel", "🇩🇪 Willkommen in der Bundeswehrkaserne Nienburg!", **v)
+            titel = T("willkommen.titel", "🇩🇪 Willkommen in der Bundeswehrkaserne !", **v)
         if text:
             text = text.replace("\\n", "\n").format_map(u_leer(v))
         else:
