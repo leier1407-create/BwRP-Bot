@@ -1,5 +1,4 @@
 """
-Bundeswehr Roleplay – Discord-Bot (alles in EINER Datei)
 
 START:   1) pip install -r requirements.txt
          2) Datei .env neben diese Datei legen mit:   DISCORD_TOKEN=dein_bot_token
